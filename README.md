@@ -24,23 +24,4 @@ Welcome to the **Online Gaming Store**, a dynamic web platform where users can *
 
 ---
 
-## 📁 Project Structure
 
-```plaintext
-/online-gaming-store
-│
-├── index.html             # Homepage
-├── products.html          # Product listing page
-├── product-details.html   # Individual product view
-├── cart.html              # Shopping cart page
-├── checkout.html          # Checkout process
-├── login.php              # User login page
-├── register.php           # User registration page
-├── rent.php               # Rental logic (PHP)
-├── buy.php                # Purchase logic (PHP)
-├── /css
-│   └── style.css          # Stylesheets
-├── /js
-│   └── main.js            # JavaScript for interactivity
-├── /images                # Product and UI images
-└── /includes              # Reusable PHP components (header, footer, DB)
